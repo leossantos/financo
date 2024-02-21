@@ -99,7 +99,7 @@ jobs:
         if: always() && matrix.session == 'tests'
         uses: "actions/upload-artifact@v4"
         with:
-          name: coverage-data-${{ matrix.runs-on }}
+          name: coverage-data-${{ matrix.session }}_${{ matrix.python }}_${{ matrix.os }}
           path: ".coverage.*"
 
       - name: Upload documentation

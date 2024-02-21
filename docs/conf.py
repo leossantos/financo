@@ -1,4 +1,5 @@
 """Sphinx configuration."""
+
 project = "Financo"
 author = "Leonardo Soares Santos"
 copyright = "2024, Leonardo Soares Santos"

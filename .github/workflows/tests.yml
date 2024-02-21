@@ -140,7 +140,7 @@ jobs:
       - name: Download coverage data
         uses: actions/download-artifact@v3
         with:
-          name: coverage-data 
+          name: coverage-data
           pattern: coverage-data-*
           merge-multiple: true
 

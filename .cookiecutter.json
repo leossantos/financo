@@ -1,0 +1,13 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Leonardo Soares Santos",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "leoss33@outlook.com.br",
+  "friendly_name": "Financo",
+  "github_user": "leossantos",
+  "license": "MIT",
+  "package_name": "financo",
+  "project_name": "financo",
+  "version": "0.0.0"
+}
